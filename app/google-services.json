@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255298812268",
+    "project_id": "hospital-1e987",
+    "storage_bucket": "hospital-1e987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255298812268:android:c3a0eb5244851c79c65b49",
+        "android_client_info": {
+          "package_name": "br.com.ifsp.hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjgDBwelhNTLE9JYlIJRg3pMiqI8vg5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
